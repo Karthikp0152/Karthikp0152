@@ -12,63 +12,83 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Karthikp0152&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views"/>
   <a href="https://github.com/Karthikp0152?tab=followers"><img src="https://img.shields.io/github/followers/Karthikp0152?label=Followers&style=for-the-badge&color=1f2937&logo=github" alt="followers"/></a>
+  <a href="https://github.com/Karthikp0152?tab=repositories"><img src="https://img.shields.io/github/stars/Karthikp0152?affiliations=OWNER&label=Stars&style=for-the-badge&color=f59e0b&logo=github" alt="stars"/></a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
+
+<!-- ===================== WHAT I BUILD ===================== -->
+## 🧭 What I Build
+
+<table>
+  <tr>
+    <td width="33%" align="center">🤖<br/><b>AI Agents</b><br/><sub>Autonomous agents that test, migrate & operate systems</sub></td>
+    <td width="33%" align="center">🧠<br/><b>Multi-Agent & RAG</b><br/><sub>Agent teams and retrieval-augmented pipelines</sub></td>
+    <td width="33%" align="center">🩺<br/><b>Deep Learning</b><br/><sub>CNNs for medical image classification</sub></td>
+  </tr>
+</table>
 
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,git,github,vscode,linux&theme=dark" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,git,github,vscode,linux&theme=dark&perline=8" alt="tech stack"/>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Karthikp0152/Project-JANUS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthikp0152&repo=Project-JANUS&theme=tokyonight&hide_border=true&border_radius=12" alt="Project-JANUS"/>
-  </a>
-  <a href="https://github.com/Karthikp0152/multi_agent_real_estate_verification_system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthikp0152&repo=multi_agent_real_estate_verification_system&theme=tokyonight&hide_border=true&border_radius=12" alt="multi_agent_real_estate_verification_system"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Karthikp0152/rag-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthikp0152&repo=rag-project&theme=tokyonight&hide_border=true&border_radius=12" alt="rag-project"/>
-  </a>
-  <a href="https://github.com/Karthikp0152/MigrationAgent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthikp0152&repo=MigrationAgent&theme=tokyonight&hide_border=true&border_radius=12" alt="MigrationAgent"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Karthikp0152/Medical-image-classification-using-CNN">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthikp0152&repo=Medical-image-classification-using-CNN&theme=tokyonight&hide_border=true&border_radius=12" alt="Medical-image-classification-using-CNN"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Karthikp0152/Project-JANUS">🛡️ Project JANUS</a></h3>
+      <sub>Safely testing AI agents that run company operations — probes security policies inside a sanitized copy of production, writes fixes for gaps, and verifies them.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/AI%20Agents-0f766e?style=flat-square" alt="AI Agents"/>
+      <img src="https://img.shields.io/badge/Security-b91c1c?style=flat-square" alt="Security"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Karthikp0152/multi_agent_real_estate_verification_system">🏡 Multi-Agent Real Estate Verification</a></h3>
+      <sub>Automated due diligence for land parcels in Telangana, India.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Multi--Agent-7c3aed?style=flat-square" alt="Multi-Agent"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Karthikp0152/rag-project">📚 RAG Project</a></h3>
+      <sub>Retrieval-augmented generation.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/RAG-2563eb?style=flat-square" alt="RAG"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Karthikp0152/MigrationAgent">🔁 MigrationAgent</a></h3>
+      <sub>Agent-driven migration.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/AI%20Agents-0f766e?style=flat-square" alt="AI Agents"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <h3><a href="https://github.com/Karthikp0152/Medical-image-classification-using-CNN">🩻 Medical Image Classification using CNN</a></h3>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+      <img src="https://img.shields.io/badge/Deep%20Learning-db2777?style=flat-square" alt="Deep Learning"/>
+      <img src="https://img.shields.io/badge/Computer%20Vision-0891b2?style=flat-square" alt="Computer Vision"/>
+    </td>
+  </tr>
+</table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
 
-<!-- ===================== STATS ===================== -->
-## 📊 GitHub Stats
+<!-- ===================== CONTRIBUTIONS ===================== -->
+## 🐍 Contributions
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Karthikp0152&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikp0152&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Karthikp0152&theme=tokyonight&hide_border=true&border_radius=12" alt="streak"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karthikp0152&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="contribution graph"/>
-</p>
-
-<!-- ===================== SNAKE ===================== -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthikp0152/Karthikp0152/output/github-snake-dark.svg"/>
